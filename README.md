@@ -1,0 +1,1 @@
+# pulumi-copy-config-from-one-project-to-another
